@@ -1,0 +1,9 @@
+["Active", "Scamming"]	88444
+["Inactive", "Phishing"]	22
+["Offline", "Fake ICO"]	121
+["Offline", "Phishing"]	7022
+["Offline", "Scam"]	0
+["Suspended", "Phishing"]	11
+["Active", "Phishing"]	1584
+["Offline", "Scamming"]	24692
+["Suspended", "Scamming"]	56
