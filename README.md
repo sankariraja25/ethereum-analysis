@@ -97,11 +97,6 @@ status: If the scam is currently active, inactive or has been taken offline
     status: "Offline"
 },
 
-## Assignment
-WARNING: THIS IS AN INDIVIDUAL COURSEWORK. DO NOT ATTEMPT TO COPY FROM YOUR CLASSMATES OR ANY OTHER MATERIALS, WE MAY CONDUCT PLAGIARISM CHECKS AND MAY ASK YOU FOR A LIVE DEMONSTRATION OF THE PROGRAM AND RESULTS OBTAINED
-
-Write a set of Map/Reduce (or Spark) jobs that process the given input and generate the data required to answer any set of the following questions and perform the tasks to have the answer. Note, you may choose to attempt any combination of questions/tasks below that sum up to 100% or even more (the grade is capped at 100%). Generally speaking tasks in Part A, B, and C (totaling 60%) are easy, while tasks in Part D (totaling 40%) vary in difficulty to match all students. Note the 100% grade for this course project will be scaled to account for 40% out of the module total grade.
-
 ### Part A. Time Analysis (20%)
 Create a bar plot showing the number of transactions occurring every month between the start and end of the dataset. Create a bar plot showing the average value of transactions in each month between the start and end of the dataset. Note: As the dataset spans multiple years and you are aggregating together all transactions in the same month, make sure to include the year in your analysis.
 Note: Once the raw results have been processed within Hadoop/Spark you may create your bar plot in any software of your choice (excel, python, R, etc.)
